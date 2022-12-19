@@ -5,8 +5,8 @@
    height="150"
    version="1.1"
    viewBox="0 0 200 150"
-   sodipodi:docname="decoration.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="1.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="936"
+     inkscape:window-height="1006"
      id="namedview94"
      showgrid="true"
      showguides="true"
@@ -45,14 +45,16 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="6.2933335"
-     inkscape:cx="87.791311"
-     inkscape:cy="71.424786"
+     inkscape:zoom="2.2250294"
+     inkscape:cx="154.6047"
+     inkscape:cy="75.50462"
      inkscape:window-x="0"
-     inkscape:window-y="40"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg83"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid903" />
@@ -600,4 +602,121 @@
      transform="matrix(-1,0,0,1,314,0)"
      width="100%"
      height="100%" />
+  <rect
+     id="mask-center"
+     x="255.00002"
+     y="45.000034"
+     width="50"
+     height="50" />
+  <g
+     id="mask-left"
+     transform="matrix(1.0588235,0,0,1,237.00002,28)">
+    <rect
+       id="rect31-1-5"
+       transform="matrix(0,-1,-1,0,0,0)"
+       x="-67"
+       y="-9.444458"
+       width="50"
+       height="9.4444447"
+       style="fill:none" />
+    <path
+       id="path71-7-2"
+       d="M 9.4444447,17 V 67 H 17 V 17 Z" />
+  </g>
+  <g
+     id="mask-bottom"
+     transform="translate(238.00002,29.000025)">
+    <rect
+       id="rect39-6-1"
+       x="17"
+       y="74"
+       width="50"
+       height="10"
+       style="fill:none" />
+    <path
+       id="path95-6-7"
+       d="m 17,66 v 8 h 50 v -8 z" />
+  </g>
+  <g
+     id="mask-top"
+     transform="translate(238.00002,28)">
+    <rect
+       id="rect51-9-9"
+       transform="scale(1,-1)"
+       x="17"
+       y="-9"
+       width="50"
+       height="10"
+       style="fill:none" />
+    <path
+       id="path111-0-6"
+       d="m 17,9 v 8 H 67 V 9 Z" />
+  </g>
+  <g
+     id="mask-topleft"
+     transform="matrix(1.0588225,0,0,1.0588225,237.00002,27.000051)">
+    <path
+       d="m 17,152 v 18 h 10 c 0,-4.432 3.568,-8 8,-8 v -10 z"
+       transform="matrix(0.94444536,0,0,0.94444536,-16.055571,-143.55571)"
+       id="shadow-topleft-7-6"
+       style="fill:none" />
+    <path
+       d="m 35,162 c -4.432,0 -8,3.568 -8,8 h 8 z"
+       transform="matrix(0.94444536,0,0,0.94444536,-16.055571,-143.55571)"
+       id="path63-5-2" />
+  </g>
+  <g
+     transform="matrix(1.0588225,0,0,-1.0588225,237.00002,112.99999)"
+     id="mask-bottomleft">
+    <path
+       id="path928-1"
+       transform="matrix(0.94444536,0,0,0.94444536,-16.055571,-143.55571)"
+       d="m 17,152 v 18 h 10 c 0,-4.432 3.568,-8 8,-8 v -10 z"
+       style="fill:none" />
+    <path
+       id="path930-8"
+       transform="matrix(0.94444536,0,0,0.94444536,-16.055571,-143.55571)"
+       d="m 35,162 c -4.432,0 -8,3.568 -8,8 h 8 z" />
+  </g>
+  <g
+     transform="matrix(-1.0588225,0,0,-1.0588225,323,112.99999)"
+     id="mask-bottomright">
+    <path
+       id="path829"
+       transform="matrix(0.94444536,0,0,0.94444536,-16.055571,-143.55571)"
+       d="m 17,152 v 18 h 10 c 0,-4.432 3.568,-8 8,-8 v -10 z"
+       style="fill:none" />
+    <path
+       id="path831"
+       transform="matrix(0.94444536,0,0,0.94444536,-16.055571,-143.55571)"
+       d="m 35,162 c -4.432,0 -8,3.568 -8,8 h 8 z" />
+  </g>
+  <g
+     id="mask-right"
+     transform="matrix(-1.0588235,0,0,1,323,28)">
+    <rect
+       id="rect837"
+       transform="matrix(0,-1,-1,0,0,0)"
+       x="-67"
+       y="-9.444458"
+       width="50"
+       height="9.4444447"
+       style="fill:none" />
+    <path
+       id="path843"
+       d="M 9.4444447,17 V 67 H 17 V 17 Z" />
+  </g>
+  <g
+     id="mask-topright"
+     transform="matrix(-1.0588225,0,0,1.0588225,323,27.000051)">
+    <path
+       d="m 17,152 v 18 h 10 c 0,-4.432 3.568,-8 8,-8 v -10 z"
+       transform="matrix(0.94444536,0,0,0.94444536,-16.055571,-143.55571)"
+       id="path849"
+       style="fill:none" />
+    <path
+       d="m 35,162 c -4.432,0 -8,3.568 -8,8 h 8 z"
+       transform="matrix(0.94444536,0,0,0.94444536,-16.055571,-143.55571)"
+       id="path851" />
+  </g>
 </svg>
